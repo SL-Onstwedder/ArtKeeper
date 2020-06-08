@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "art-keeper"
+    }
+  },
+  "defaultProject": "art-keeper",
+  "cli": {
+    "analytics": "5dd163bf-24ec-486c-a887-81fc0bf581b1"
+  }
 }
